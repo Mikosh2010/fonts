@@ -1,20 +1,20 @@
 @font-face {
 	font-family: 'Gotham Pro BlackItalic';
-	src: url('GothamPro-BlackItalic.ttf') format('truetype');
+	src: url('https://github.com/Mikosh2010/fonts/raw/refs/heads/main/GothamPro-BlackItalic.ttf') format('truetype');
 	font-weight: 900;
 	font-style: italic
 }
 
 @font-face {
 	font-family: 'Gotham Pro LightItalic';
-	src: url('GothamPro-LightItalic.ttf') format('truetype');
+	src: url('https://github.com/Mikosh2010/fonts/raw/refs/heads/main/GothamPro-LightItalic.ttf') format('truetype');
 	font-weight: 300;
 	font-style: italic
 }
 
 @font-face {
 	font-family: SFRounded;
-	src: url("SFRounded-Medium.woff2") format("woff2");
+	src: url("https://github.com/Mikosh2010/fonts/raw/refs/heads/main/SFRounded-Medium.woff2") format("woff2");
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap
@@ -22,21 +22,21 @@
 
 @font-face {
 	font-family: "SF Pro Display";
-	src: url("SFProDisplay-Medium.ttf") format("truetype");
+	src: url("https://github.com/Mikosh2010/fonts/raw/refs/heads/main/SFProDisplay-Medium.ttf") format("truetype");
 	font-weight: 500;
 	font-style: normal
 }
 
 @font-face {
 	font-family: "SF Pro Display";
-	src: url("SFProDisplay-Semibold.ttf") format("truetype");
+	src: url("https://github.com/Mikosh2010/fonts/raw/refs/heads/main/SFProDisplay-Semibold.ttf") format("truetype");
 	font-weight: 600;
 	font-style: normal
 }
 
 @font-face {
 	font-family: "SF Pro Display";
-	src: url("SFProDisplay-Regular.ttf") format("truetype");
+	src: url("https://github.com/Mikosh2010/fonts/raw/refs/heads/main/SFProDisplay-Regular.ttf") format("truetype");
 	font-weight: 400;
 	font-style: normal
 }
