@@ -1,15 +1,40 @@
 @font-face {
-	font-family: 'Gotham Pro BlackItalic';
+	font-family: 'Gotham Pro';
 	src: url('https://github.com/Mikosh2010/fonts/raw/refs/heads/main/GothamPro-BlackItalic.ttf') format('truetype');
 	font-weight: 900;
 	font-style: italic
 }
 
 @font-face {
-	font-family: 'Gotham Pro LightItalic';
+	font-family: 'Gotham Pro';
 	src: url('https://github.com/Mikosh2010/fonts/raw/refs/heads/main/GothamPro-LightItalic.ttf') format('truetype');
 	font-weight: 300;
 	font-style: italic
+}
+
+@font-face {
+	font-family: 'Gotham Pro';
+	src: url('https://github.com/Mikosh2010/fonts/raw/refs/heads/main/gothampro.ttf') format('truetype');
+	font-weight: 400
+}
+
+@font-face {
+	font-family: 'Gotham Pro';
+	src: url('https://github.com/Mikosh2010/fonts/raw/refs/heads/main/gothampro_bold.ttf') format('truetype');
+	font-weight: 700
+}
+
+@font-face {
+	font-family: 'Gotham Pro';
+	src: url('https://github.com/Mikosh2010/fonts/raw/refs/heads/main/gothampro_italic.ttf') format('truetype');
+	font-weight: 400;
+	font-style: italic
+}
+
+@font-face {
+	font-family: 'Gotham Pro';
+	src: url('https://github.com/Mikosh2010/fonts/raw/refs/heads/main/gothampro_light.ttf') format('truetype');
+	font-weight: 300
 }
 
 @font-face {
